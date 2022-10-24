@@ -60,5 +60,4 @@ n - объем выборки, равен 20 по условию задачи
 <br/>
 Итог:
 <br/>
-![image](https://user-images.githubusercontent.com/115126424/195377680-c3d1e34c-ef1d-41ce-9445-c9556548daed.png)
 ![image](https://user-images.githubusercontent.com/115126424/197546557-bde746d3-12f0-44ef-84da-4398128a7a3e.png)
