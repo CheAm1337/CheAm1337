@@ -61,3 +61,10 @@ n - объем выборки, равен 20 по условию задачи
 Итог:
 <br/>
 ![image](https://user-images.githubusercontent.com/115126424/197546557-bde746d3-12f0-44ef-84da-4398128a7a3e.png)
+
+![image](https://user-images.githubusercontent.com/115126424/199505077-dcea5db0-f913-4ad5-8da1-080ed691b456.png)
+
+![image](https://user-images.githubusercontent.com/115126424/199505138-2c11d34a-0600-4576-a4f7-8513083bd243.png)
+
+![image](https://user-images.githubusercontent.com/115126424/199505265-19cd26e5-5151-482f-b072-fa0ead2417b4.png)
+
